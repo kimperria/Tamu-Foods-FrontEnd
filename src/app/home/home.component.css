@@ -18,3 +18,8 @@ li a {
   overflow: hidden;
   color: #e72020;
 }
+
+li a:hover{
+  opacity: 0.9;
+  cursor: pointer;
+}
