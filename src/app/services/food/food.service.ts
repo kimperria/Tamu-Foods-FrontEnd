@@ -17,6 +17,10 @@ export class FoodService {
       '/assets/images/foods/food6.jpeg',
       '/assets/images/foods/food7.jpeg',
       '/assets/images/foods/food8.jpeg',
+      '/assets/images/foods/food9.jpeg',
+      '/assets/images/foods/food10.jpeg',
+      '/assets/images/foods/food11.jpeg',
     ]
+
   }
 }
