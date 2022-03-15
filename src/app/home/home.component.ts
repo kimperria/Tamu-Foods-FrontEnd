@@ -8,7 +8,7 @@ import { FoodService } from '../services/food/food.service';
 })
 export class HomeComponent implements OnInit {
   
-  foods:String[]=[]
+  foods:String[]=[];
   constructor(private foodservice:FoodService) { }
 
   ngOnInit(): void {
