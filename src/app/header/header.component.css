@@ -1,0 +1,14 @@
+header{
+  background: white;
+  padding: 0;
+  border-bottom: 1px #e72929;
+}
+
+a{
+  color: #af1313;
+}
+
+a:hover{
+  background: #e72929;
+  color: white;
+}
