@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
 
+
+## Installation/Setup Instructions
+To clone this repository, open terminal the copy and run this code
+
+* git clone https://github.com/John-Kimani/Tamu-Foods-FrontEnd.git
+
+* cd Tamu-Foods-FrontEnd
+* code .
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
