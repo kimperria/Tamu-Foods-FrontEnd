@@ -9,15 +9,15 @@ export class FoodService {
 
   getAll():String[]{
     return [
-      '/assets/images/food/photo1.jpeg',
-      '/assets/images/food/photo2.jpeg',
-      '/assets/images/food/photo3.jpeg',
-      '/assets/images/food/photo4.jpeg',
-      '/assets/images/food/photo5.jpeg',
-      '/assets/images/food/photo6.jpeg',
-      '/assets/images/food/photo7.jpeg',
-      '/assets/images/food/photo8.jpeg',
-      '/assets/images/food/photo9.jpeg',
+      '/assets/images/foods/food1.jpeg',
+      '/assets/images/foods/food2.jpeg',
+      '/assets/images/foods/food3.jpeg',
+      '/assets/images/foods/food4.jpeg',
+      '/assets/images/foods/food5.jpeg',
+      '/assets/images/foods/food6.jpeg',
+      '/assets/images/foods/food7.jpeg',
+      '/assets/images/foods/food8.jpeg',
+      '/assets/images/foods/food9.jpeg',
     ]
   }
 }
