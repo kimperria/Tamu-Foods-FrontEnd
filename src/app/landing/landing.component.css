@@ -11,6 +11,11 @@
 
 .about-card{
     height: 34rem;
+    border-radius: 10%;
+    padding-top: 3rem;
+    box-shadow: -32px 29px 0px -14px rgba(201,200,200,1);
+    -webkit-box-shadow: -32px 29px 0px -14px rgba(201,200,200,1);
+    -moz-box-shadow: -32px 29px 0px -14px rgba(201,200,200,1);
 }
 .about-card h3{
     text-align: center;
@@ -123,6 +128,10 @@
 .btn{
     background-color: #E16520;
     color: white;
+}
+.btn:hover{
+    background-color: white;
+    color: #E16520;
 }
 .container-footer{
     height: 26rem;
