@@ -103,6 +103,7 @@
     background-color: #E16520;
     color: white;
 }
-footer{
-    background-color: aqua;
+.container-footer{
+    height: 26rem;
+    color: #e72929;
 }
