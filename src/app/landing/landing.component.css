@@ -69,7 +69,7 @@
     color: #E16520;
 }
 .container-footer{
-    /* height: 26rem; */
+    height: 29rem;
     color: white;
     background: #031110;
     padding-top: 4rem;
@@ -79,4 +79,11 @@ footer h5{
 }
 footer p{
     font-size: 22px;
+}
+.input{
+    width: 75%;
+    height: 3rem;
+}
+.subscribe{
+    width: 22%;
 }
