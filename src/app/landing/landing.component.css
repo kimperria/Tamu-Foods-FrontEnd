@@ -10,12 +10,33 @@
 }
 
 .about-card{
-    height: 20rem;
+    height: 34rem;
+}
+.about-card h3{
+    text-align: center;
 }
 
 .logo-image{
     width: 18rem;
     height: 12rem;
+}
+.about{
+    height: 39rem;
+}
+.top{
+    margin-left: 8rem;
+}
+.images,
+.top-image{
+    align-items: center;
+    height: 16rem;
+}
+.low-image{
+    height: 15rem;
+    width: 19rem;
+}
+.right{
+    margin-left: 2rem;
 }
 
 /* about card transition */
