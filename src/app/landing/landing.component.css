@@ -87,10 +87,15 @@
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
-    height: 18rem;
-    padding-top: 7rem;
+    height: 35rem;
+    padding-top: 14rem;
 }
-
+.numbers h4{
+    font-size: 40px;
+}
+.numbers p{
+    font-size: 30px;
+}
 /* footer{
     padding-top: 2rem;
 } */
