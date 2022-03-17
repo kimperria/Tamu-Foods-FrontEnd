@@ -1,4 +1,4 @@
-header{
+nav{
   background: white;
   padding: 0;
   border-bottom: 1px solid #e72929;
@@ -13,11 +13,11 @@ a:hover{
   color: white;
 }
 
-.container{
+/* .container{
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
-}
+} */
 
 a.logo{
   padding: 1em;
