@@ -9,6 +9,7 @@ import { RatingModule } from 'ng-starrating';
 import { LandingComponent } from './landing/landing.component';
 import { LoginComponent } from './login/login.component';
 import { SignupComponent } from './signup/signup.component';
+import { ContactComponent } from './contact/contact.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { SignupComponent } from './signup/signup.component';
     HomeComponent,
     LandingComponent,
     LoginComponent,
-    SignupComponent
+    SignupComponent,
+    ContactComponent
   ],
   imports: [
     BrowserModule,

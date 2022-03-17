@@ -1,0 +1,23 @@
+.firstname{
+    width: 100%;
+}
+.lastname{
+    width: 100%;
+}
+.address{
+    width: 100%;
+}
+.mobile{
+    width: 100%;
+}
+.btn{
+    background-color: #E16520;
+    color: white;
+}
+.btn:hover{
+    background-color: white;
+    color: #E16520;
+}
+.us{
+    color: #E16520;
+}
