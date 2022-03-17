@@ -30,3 +30,6 @@ To clone this repository, open terminal the copy and run this code
 ## Author Infomation
 
 Author name: John Kimani
+Collaborators: 
+1. Front-end developer Zakiya Adam
+2. Back-end developer Truphosa Ambiyo
